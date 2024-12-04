@@ -1,6 +1,6 @@
 # Greggs.Products
 ## Introduction
-Hello, and thanks for checking out the readme for this technical assessment. Please find below each user story, my current implementations and suggestions, as well as functionality covered in tests
+Hello, and thanks for checking out the readme for this technical assessment. Please find below each user story, my current implementations, and suggestions of how I'd improve this test if it were to become a larger application
 
 ## User Stories
 ### User Story 1
