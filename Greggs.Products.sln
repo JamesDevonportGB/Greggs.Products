@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greggs.Products.Api", "Greggs.Products.Api\Greggs.Products.Api.csproj", "{007260C8-D357-4E89-B176-9AB9A09B2FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greggs.Products.UnitTests", "Greggs.Products.UnitTests\Greggs.Products.UnitTests.csproj", "{F5E1CF54-E437-4B89-9779-C77FF9A0644A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greggs.Products.Api.UnitTests", "Greggs.Products.Api.UnitTests\Greggs.Products.Api.UnitTests.csproj", "{F5E1CF54-E437-4B89-9779-C77FF9A0644A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
